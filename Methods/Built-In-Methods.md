@@ -250,9 +250,7 @@ The `Math` object contains various methods for performing mathematical operation
   console.log(Math.floor(5.95)) // Output: 5
   ```
 
-- **`Math.ceil()`**: Rounds a number up to the nearest
-
-integer.
+- **`Math.ceil()`**: Rounds a number up to the nearest integer.
 
 ```javascript
 console.log(Math.ceil(5.05)) // Output: 6
