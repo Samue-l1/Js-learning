@@ -1,0 +1,34 @@
+# Directory Structure
+
+    - **[.]**
+        - help.md
+        - readme.md
+    - **[Arrays]**
+        - Arrays.md
+        - **[Advanced]**
+            - readme.md
+    - **[DataTypes]**
+        - readme.md
+        - **[Composite (Non-Primitive) Data Types]**
+            - readme.md
+        - **[Primitive Data Types]**
+            - readme.md
+    - **[Methods]**
+        - readme.md
+        - **[array-methods]**
+            - usage.md
+        - **[date-method]**
+            - usage.md
+        - **[math-method]**
+            - usage.md
+        - **[number-method]**
+            - usage.md
+        - **[object-methods]**
+            - usage.md
+        - **[promise-method]**
+            - usage.md
+        - **[string-methods]**
+            - course.md
+            - examples.md
+    - **[Operators]**
+        - Operators.md
