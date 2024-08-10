@@ -2,7 +2,6 @@ Array(data);
 
 console.log(isArray); // Output: true
 
-````
 
 ### 29. **`toLocaleString()`**
 
